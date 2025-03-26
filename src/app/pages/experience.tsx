@@ -27,6 +27,7 @@ export function Experience() {
           alt="samyak-tech-lab-logo"
           width={200}
           height={60}
+          priority
         />
       ),
       duration: "2025 – Present",
@@ -36,6 +37,7 @@ export function Experience() {
           alt="samyak-tech-lab-logo"
           width={50}
           height={50}
+          priority
         />
       ),
       content: (
@@ -104,6 +106,7 @@ export function Experience() {
           alt="musitech-logo"
           width={120}
           height={40}
+          priority
         />
       ),
       duration: "2024 – 2024",
@@ -113,6 +116,7 @@ export function Experience() {
           alt="musitech-logo"
           width={60}
           height={60}
+          priority
         />
       ),
       content: (
@@ -171,6 +175,7 @@ export function Experience() {
           alt="cloud-counselage-logo"
           width={200}
           height={60}
+          priority
         />
       ),
       smallScreenLogo: (
@@ -179,6 +184,7 @@ export function Experience() {
           alt="cloud-counselage-logo"
           width={300}
           height={80}
+          priority
         />
       ),
       content: (
