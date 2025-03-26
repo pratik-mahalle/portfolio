@@ -154,7 +154,7 @@ export function Experience() {
                 I collaborated with developers to gather{" "}
                 <span className="text-white">feedback</span>, address{" "}
                 <span className="text-white">technical challenges</span>, and improve the{" "}
-                <span className="text-white">user experience</span> of MusiTech's products. My role involved{" "}
+                <span className="text-white">user experience</span> of MusiTech&apos;s products. My role involved{" "}
                 <span className="text-white">fostering relationships</span> within the developer community, 
                 enhancing <span className="text-white">product adoption</span>, and driving{" "}
                 <span className="text-white">engagement</span> through technical content and advocacy.
