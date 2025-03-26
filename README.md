@@ -1,13 +1,13 @@
 # Portfolio
 
-Hi there, I'm **lassiecoder**! 👋
-This is my personal portfolio template built using Next.js and Tailwind CSS with smooth animations powered by Framer Motion.
+Hi there, I'm **Pratik Mahalle**! 👋
+This is my personal portfolio built using Next.js and Tailwind CSS with smooth animations powered by Framer Motion.
 
 ## Author
 
-**Priyanka Sharma**
+**Pratik Mahalle**
 
-- Email: sharmapriyanka84510@gmail.com
+- Email: pratik.mahalle@outlook.com
 
 ## License
 
@@ -18,7 +18,7 @@ This project is licensed under the MIT License.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/pratik-mahalle/portfolio.git
 cd portfolio
 ```
 
@@ -103,7 +103,7 @@ npm run dev
 5. Push the changes to your GitHub repository
 
    ```bash
-   git push origin master
+   git push origin main
    ```
 
 ### NOTE: Monitor GitHub Actions
@@ -112,14 +112,22 @@ npm run dev
 2. Check for any running or completed workflows.
 3. Ensure the deployment workflow runs successfully.
 
+## Features
+
+- Modern and responsive design
+- Smooth animations with Framer Motion
+- Dark theme
+- Interactive UI components
+- Blog section with technical articles
+- Experience timeline
+- Project showcase
+- Contact information
+
 ## Contributing
 
-Feel free to submit issues or pull requests.
+Feel free to submit issues or pull requests. Any contributions you make are greatly appreciated!
 
-## Preview
-
-![portfolio-preview](https://github.com/lassiecoder/portfolio/assets/17312616/0d9c65b3-d9c4-4ead-9458-c9ab85f006d0)
 
 ## Contact
 
-For any inquiries, please contact me at lassiecoder@gmail.com.
+For any inquiries, please contact me at pratik.mahalle@outlook.com
