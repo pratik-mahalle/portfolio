@@ -143,7 +143,7 @@ export function Experience() {
               <span className="text-white">MusiTech</span> is a{" "}
               <span className="text-white">technology-driven company</span> that focuses on providing{" "}
               <span className="text-white">innovative digital solutions</span> for the{" "}
-              <span className="text-white">music industry</span>.
+              <span className="text-white">Digital Marketing</span>.
             </div>
 
             <div className="text-sm text-gray-400 mt-8 font-medium">
