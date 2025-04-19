@@ -52,14 +52,14 @@ export function Experience() {
               {isSmallScreen && (
                 <p className="font-light flex text-xs mt-2">
                   <span className="font-medium mr-2">Samyak Tech Lab</span>
-                  (Feb 2025 – March 2015)
+                  (Feb 2025 – March 2025)
                 </p>
               )}
 
               {/* Show only if screen size is > 770px */}
               {!isSmallScreen && (
                 <p className="text-gray-400 text-base md:text-sm mt-2 block italic">
-                  (Feb 2025 – Present)
+                  (Feb 2025 – March 2025)
                 </p>
               )}
             </h1>
