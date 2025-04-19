@@ -52,7 +52,7 @@ export function Experience() {
               {isSmallScreen && (
                 <p className="font-light flex text-xs mt-2">
                   <span className="font-medium mr-2">Samyak Tech Lab</span>
-                  (Feb 2025 – Present)
+                  (Feb 2025 – March 2015)
                 </p>
               )}
 
